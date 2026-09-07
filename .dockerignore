@@ -3,3 +3,5 @@
 *.exe
 web/node_modules/
 web/dist/
+.github
+.claude
